@@ -165,7 +165,7 @@ body {
   border-radius: 4px;
 }
 .bg-primary {
-  background-color: var(--primary-color, #9fe870) !important;
+  background-color: var(--primary-color, #376719) !important;
 }
 .btn-secondary {
   background-color: var(--secondary-color, #ffd7ef) !important;
@@ -184,9 +184,9 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: var(--primary-color, #9fe870) !important;
-  border-color: var(--primary-color, #9fe870) !important;
-  color: var(--primary-text, #264d0c) !important;
+  background-color:#154576 !important;
+  border-color: #154576 !important;
+  color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-primary:hover,
@@ -659,7 +659,7 @@ body[data-is-rounded-buttons="true"] .nav-tabs .nav-link {
 
 a,
 a:hover {
-  color: var(--primary-color, #9fe870);
+  color: #13283d;
 }
 
 :root[data-is-scroll-to-top-buttons="true"][data-is-rounded-buttons="true"] #scrollToTop a{
